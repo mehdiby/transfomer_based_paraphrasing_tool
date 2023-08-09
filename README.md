@@ -16,5 +16,7 @@ Welcome to the Text Paraphrasing App, an open-source Flutter application that ha
 3. Copy the public URL provided by ngrok and paste it in the Flutter app.
 4. Run the Flutter app and experience text paraphrasing in action!
 
-<img src="demo.gif" alt="App Demo" width="300">
-
+<!-- Center-align the GIF -->
+<p align="center">
+  <img src="demo.gif" alt="App Demo" width="300">
+</p>
